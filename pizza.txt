@@ -1,7 +1,0 @@
-
-
-Recipe from Navin Reddy
-
-go to dominos
-select pizza 
-order
